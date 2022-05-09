@@ -1,16 +1,15 @@
 ---
-name: Tails Azimuth
-avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
-company: Stanford University
-email: address@yoursite.com
-twitter: https://twitter.com/Twitter
-linkedin: https://www.linkedin.com
-github: https://github.com
+name: Sam Sycamore
+avatar: /static/images/sycamore-400.jpeg
+occupation: Writer and web developer
+email: sam@sycamore.design
+twitter: https://twitter.com/tanoaksam
+linkedin: https://www.linkedin.com/in/samuelsycamore
+github: https://github.com/samuelsycamore
 ---
 
-Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
+Sam Sycamore is a web developer and writer in the tech industry. His specialties include front-end development with JavaScript/TypeScript and React as well as technical writing, content writing, and copywriting related to these subjects.
 
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
+Sam currently works as the founding Developer Relations Engineer at MUI. Previously he was the Marketing Manager at Hashnode.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Sam holds a B.A. in Philosophy and a B.S. in Biology from the University of Louisville. He has over 10 years of professional experience as a writer, editor, and public speaker.

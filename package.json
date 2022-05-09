@@ -1,6 +1,6 @@
 {
-  "name": "tailwind-nextjs-starter-blog",
-  "version": "1.5.5",
+  "name": "sycamore-garden",
+  "version": "0.1",
   "private": true,
   "scripts": {
     "start": "cross-env SOCKET=true node ./scripts/next-remote-watch.js ./data",
@@ -13,7 +13,6 @@
   },
   "dependencies": {
     "@fontsource/inter": "4.5.2",
-    "@mailchimp/mailchimp_marketing": "^3.0.58",
     "@tailwindcss/forms": "^0.4.0",
     "@tailwindcss/typography": "^0.5.0",
     "autoprefixer": "^10.4.0",
