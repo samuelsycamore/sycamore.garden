@@ -10,7 +10,6 @@ const siteMetadata = {
   siteRepo: 'https://github.com/samuelsycamore/garden',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/sycamore-400.jpeg',
-  socialBanner: '/static/images/twitter-card.png',
   email: 'sam@sycamore.design',
   github: 'https://github.com/samuelsycamore',
   twitter: 'https://twitter.com/tanoaksam',
