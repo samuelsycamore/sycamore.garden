@@ -10,7 +10,7 @@ github: https://github.com/samuelsycamore
 
 Sam Sycamore is a web developer and writer in the tech industry. His specialties include front-end development with JavaScript/TypeScript and React as well as technical writing, content writing, and copywriting related to these subjects.
 
-Sam currently works as the founding Developer Relations Engineer at MUI. Previously he was the Marketing Manager at Hashnode.
+Sam currently works as the Developer Relations Engineer at MUI. Previously he was the Marketing Manager at Hashnode.
 
 Sam has over 10 years of professional experience as a writer, editor, and public speaker across several industries. He holds a B.A. in Philosophy and a B.S. in Biology from the University of Louisville.
 
