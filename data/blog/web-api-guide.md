@@ -10,7 +10,7 @@ summary: I worked with TakeShape to deliver a technical article addressing their
 
 ## TakeShape case study
 
-TakeShape is a SaaS startup that offers users a way to work with GraphQL APIs more efficiently for serverless web development.
+[TakeShape](https://takeshape.io) is a SaaS startup that offers users a way to work with GraphQL APIs more efficiently for serverless web development.
 
 When I connected with the founders, they had recently pivoted to this new model from an earlier version of the product that was centered around content management specifically, in the form of a headless CMS.
 

@@ -10,7 +10,7 @@ summary: I organized and hosted a live-streamed technical writing workshop serie
 
 ## Hashnode case study
 
-Hashnode is blogging platform for writers in the tech industry.
+[Hashnode](https://hashnode.com) is blogging platform for writers in the tech industry.
 In 2021, I served as the company's first Marketing Manager.
 
 In my time shaping Hashnode's marketing strategy, it was important to me to establish a culture and an ethos of freely sharing knowledge to help people succeed.
