@@ -1,12 +1,12 @@
 ---
 title: A conceptual guide for a web development API service
 date: '2021-05-01'
-tags: ['technical writing']
+tags: ['technical writing', 'marketing']
 draft: false
-summary:
+summary: I worked with TakeShape to deliver a technical article addressing their ideal user's pain points.
 ---
 
-![](/static/images/takeshape.png)
+![](/static/images/takeshape/takeshape.png)
 
 ## TakeShape case study
 
