@@ -15,3 +15,5 @@ Sam currently works as a Developer Relations Engineer at MUI. Previously he was 
 Sam has over 10 years of professional experience as a writer, editor, content marketer, and public speaker across several industries. He holds a B.A. in Philosophy and a B.S. in Biology from the University of Louisville.
 
 He spends his free time making music, hiking, and foraging for edible wild plants.
+
+Check out [Sam's portfolio](/portfolio) for detailed case studies of his work in tech.
