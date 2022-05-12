@@ -26,5 +26,6 @@ I also landed three paid sponsorships for the bootcamp.
 The goal was to get at least 1,000 users to sign up for the event.
 In the end we had almost 3,000 signups!
 The email marketing campaign had an average open rate above 60%.
+The bootcamp led to hundreds of new blog posts being published on the platform.
 
 You can watch the entire series on [Hashnode's YouTube channel](https://www.youtube.com/watch?v=_MwCqXbX3A0&list=PL_rXJbw5ZEr0XvY8x5sWxvyS33ul1ChTO).

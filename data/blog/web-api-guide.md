@@ -12,7 +12,7 @@ summary: I worked with TakeShape to deliver a technical article addressing their
 
 TakeShape is a SaaS startup that offers users a way to work with GraphQL APIs more efficiently for serverless web development.
 
-When I connected with the founders, they had recently pivoted to this new model from an earlier version of the product that was centered around content management (in the form of a headless CMS).
+When I connected with the founders, they had recently pivoted to this new model from an earlier version of the product that was centered around content management specifically, in the form of a headless CMS.
 
 Much of the marketing they had done for the product up to this point was now outdated and inaccurate.
 And though they understood the API inside and out, the team of founding engineers was finding it surprisingly difficult to articulate its key selling points in a way that resonated with potential users.
