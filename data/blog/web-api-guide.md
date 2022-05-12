@@ -4,8 +4,9 @@ date: '2021-05-01'
 tags: ['technical writing']
 draft: false
 summary:
-images: []
 ---
+
+![](/static/images/takeshape.png)
 
 ## TakeShape case study
 
@@ -36,6 +37,8 @@ The plan is to build a simple personal blog. This leads you down the rabbit hole
 
 Congratulations! You are now officially jamming with the Jamstack: using JavaScript to pass API data to (pre-rendered) Markup, all of which happens in the cloud. No servers necessary! (For you, anyway.)
 
+![](/static/images/takeshape/fig-1.png)
+
 You publish a few blog posts, then a few more. Before you know it, an audience forms around your content. Time to add commenting functionality to your blog!
 
 Recalling your experiences with the headless CMS, you figure there must be an existing API out there that you can plug ‘n’ play without having to reinvent the wheel. Sure enough! It takes some trial and error to implement, but eventually you cultivate a healthy comments section on your posts.
@@ -43,6 +46,8 @@ Recalling your experiences with the headless CMS, you figure there must be an ex
 To your surprise, the blog becomes popular enough that you’re able to seriously consider monetizing the work that you’re putting into it. Your audience is saying they would love to purchase ebooks, online courses, access to a subscription site, and more. And wouldn’t you know it, there’s a specialized API out there to meet every single one of your development needs – and then some.
 
 Your humble little Jamstack blog is growing up! And now you’ve got a more complex set of problems to solve: namely, how do you “mesh” all of these APIs together while keeping your code maintainable?
+
+![](/static/images/takeshape/fig-2.png)
 
 You may not have fully realized what you were signing up for when you got started, but this Jamstack approach represents a fairly new paradigm in web architecture. The monolithic “black box” architecture of the last generation – where all of an app’s functionality lives inside of a single code base – has been replaced by a constellation of autonomous, decoupled services.
 
@@ -81,6 +86,8 @@ The solution was to construct unique APIs to serve each interface, which could t
 Though this case study may not seem directly relevant to our Jamstack blog at first glance, what is our “integration layer,” after all, if not a kind of Backend For Frontend?
 
 TakeShape’s API Mesh was created to address this missing “integration” piece of the Jamstack puzzle. API Mesh empowers developers to take their highly distributed sites and apps to the next level by abstracting away many of the aforementioned pain points.
+
+![](/static/images/takeshape/fig-3.png)
 
 In essence, you get to keep your constellation of third-party APIs, but all you have to worry about on the frontend is the single GraphQL endpoint provided to you by the API Mesh. Now you have one singular source of truth for all of the data flowing through your frontend. Perhaps best of all, since it uses GraphQL, your API Mesh is self-documenting, which means you never have to go searching for documentation again to find out how to access the data you need.
 
