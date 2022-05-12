@@ -24,3 +24,5 @@ These tutorials became the first articles published to the Axiom Academy resourc
 - I. [Automate Your Morning Routine](https://academy.axiom.ai/blog/automate-your-morning-routine.html)
 - II. [Let Browser Bots Handle Your Meal Planning](https://academy.axiom.ai/blog/automate-your-meal-planning.html)
 - III. [Clean Up Your Cluttered Inbox](https://academy.axiom.ai/blog/clean-up-your-cluttered-inbox.html)
+
+![](/static/images/axiom/axiom-2.png)
