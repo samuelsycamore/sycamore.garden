@@ -6,4 +6,6 @@ draft: true
 summary:
 ---
 
-# MUI case study
+## MUI case study
+
+MUI (formerly Material-UI) is an international startup that maintains open-source and open-core React UI component libraries.
