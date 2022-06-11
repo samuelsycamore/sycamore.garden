@@ -29,7 +29,7 @@ module.exports = {
       },
       colors: {
         primary: colors.sky,
-        gray: colors.neutral,
+        gray: colors.stone,
       },
       typography: (theme) => ({
         DEFAULT: {
