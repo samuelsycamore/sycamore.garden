@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/newsletter",
+      "destination": "https://sycamore.design/newsletter",
+      "permanent": true
+    }
+  ]
+}
