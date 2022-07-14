@@ -14,7 +14,7 @@ const isSocket = process.env.SOCKET
 
 export default function App({ Component, pageProps }) {
   return (
-    <PlausibleProvider domain="sycamore.garden">
+    <PlausibleProvider domain="sycamore.garden" trackOutboundLinks="true">
       <ThemeProvider attribute="class" defaultTheme={siteMetadata.theme}>
         <Head>
           <meta content="width=device-width, initial-scale=1" name="viewport" />
