@@ -4,6 +4,11 @@
       "source": "/newsletter",
       "destination": "https://buttondown.email/sycamore-garden",
       "permanent": false
+    },
+    {
+      "source": "/music",
+      "destination": "https://soundcloud.com/samsycamore",
+      "permanent": false
     }
   ]
 }
