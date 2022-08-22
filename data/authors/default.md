@@ -25,4 +25,4 @@ He is the author of two books:
 
 He spends his free time [making music](/music/), traveling and camping, and foraging for edible wild plants.
 
-Check out [Sam's portfolio](https://work.sycamore.design/) for detailed case studies of his professional work.
+Check out [Sam's portfolio](https://work.sycamore.garden/) for detailed case studies of his professional work.
