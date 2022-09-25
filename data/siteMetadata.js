@@ -3,7 +3,7 @@ const siteMetadata = {
   author: 'Sam Sycamore',
   headerTitle: 'Sycamore Garden',
   description:
-    'The digital garden of Sam Sycamore, writer and web developer. Tech, travel, music, edible wild plants, and beyond.',
+    'The digital garden of Sam Sycamore, writer and web developer. Tech, music, edible wild plants, and beyond.',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://sycamore.garden',

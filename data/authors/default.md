@@ -15,7 +15,6 @@ Some things you could do here:
 - check out my [professional portfolio](https://work.sycamore.garden)
 - read my [tech and career blog](https://tech.sycamore.garden)
 - browse the [edible wild plant database](https://foraging.sycamore.garden)
-- buy my [book](https://shop.sycamore.garden)
+- buy my [book about foraging](https://shop.sycamore.garden)
 - listen to my [music](https://soundcloud.com/samsycamore)
-- read my [travel blog](https://travel.sycamore.garden) (coming soon)
 - listen to my [old podcast](https://thegoodliferevival.com/podcast)
